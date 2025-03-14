@@ -1,0 +1,10 @@
+{
+  "name": "CookieRun SFX",
+  "description": "SFX From the CookieRun Series",
+  "author": "Treasureandcrow",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
